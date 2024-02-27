@@ -1,9 +1,9 @@
 # **Capstone project:**
-## _ This capstone project aims to instil the skills acquired during this whole 5 months of my ALX Intro to Software Engeneering program ._
+### _ This capstone project aims to instil the skills acquired during this whole 5 months of my ALX Intro to Software Engeneering program ._
 
 # **Project Overview:**
-## _ARRANGE IT!, is an note taking app created by so much love and care, it's the fruit of my 5 months of studies in the ISWE program held by ALX._
-## _ I have always used note taking journals and apps, but I have always been so creative with my Bullet Journals since note taking apps usually don't give more freedom to be creative with your notes! So ARRANGE IT, is actually made for people like me, who are ready to upgrade their daily life and be creative while doing it. _
+### _ARRANGE IT!, is an note taking app created by so much love and care, it's the fruit of my 5 months of studies in the ISWE program held by ALX._
+### _ I have always used note taking journals and apps, but I have always been so creative with my Bullet Journals since note taking apps usually don't give more freedom to be creative with your notes! So ARRANGE IT, is actually made for people like me, who are ready to upgrade their daily life and be creative while doing it. _
 
 # ** Features and Functionality:**
 + The app offers an easy to navigate and simple layout, letting the user to get creative.
