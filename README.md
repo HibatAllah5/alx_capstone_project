@@ -32,13 +32,21 @@ Here's a simple flowchart of the Note taking app:
 
 # Roadmap and future enhancements:
 
-+ 
-+ 
++ I will keep upgrading this app according to what users will need !
++ I will try to make it easier to work with.
+  
 
 
 
 
 # Contact information:
+
+Asalamo Alaikom, I'm HIBATALLAH Khaldoune a Moroccan young woman and a former Management Techniques and Foreign Applied Languages student.
+ YOU CAN REACH ME ON MY EMAIL : hibakhaldoune5@gmail.com
+ And you can follow me on GITHUB : https://github.com/HibatAllah5
+
+ :sunflower: :sunflower: :sunflower: :sunflower: :sunflower: 
+
 
 
 
