@@ -24,7 +24,7 @@ So ARRANGE IT, is actually made for people like me, who are ready to upgrade the
 # Demo: :framed_picture:
 Here's a simple flowchart of the Note taking app:
 
-<img width="298" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13">
+<img width="400" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13">
 
 
 
