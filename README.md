@@ -28,7 +28,7 @@ Here's a simple flowchart of the Note taking app:
 
 And here's the Figma file that illustrate the APP:
 
-<img width="600" alt="Figma File" src="![alt text](image.png)">
+<img width="600" alt="Figma File" src="![alt text](<FIGMA Arrange it.PNG>)">
 
 
 
