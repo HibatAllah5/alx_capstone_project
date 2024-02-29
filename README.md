@@ -26,6 +26,12 @@ Here's a simple flowchart of the Note taking app:
 
 <img width="600" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13">
 
+And here's the Figma file that illustrate the APP:
+
+<img width="600" alt="Figma File" src="![alt text](image.png)">
+
+
+
 
 
 
