@@ -1,4 +1,4 @@
-<img width="298" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13"># Capstone project:
+# Capstone project:
 
 This capstone project aims to instil the skills acquired during this whole 5 months of my ALX Intro to Software Engeneering program .
 
@@ -24,7 +24,7 @@ So ARRANGE IT, is actually made for people like me, who are ready to upgrade the
 # Demo: :framed_picture:
 Here's a simple flowchart of the Note taking app:
 
-![alt text](Uploading app FLOWCHART.PNG…)
+<img width="298" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13">
 
 
 
