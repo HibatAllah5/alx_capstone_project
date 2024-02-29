@@ -38,11 +38,12 @@ Here's a simple flowchart of the Note taking app:
 
 
 
-
 # Contact information: :sunflower:
 
 Asalamo Alaikom, I'm HIBATALLAH Khaldoune a Moroccan young woman and a former Management Techniques and Foreign Applied Languages student.
 
 
 YOU CAN REACH ME ON MY EMAIL : hibakhaldoune5@gmail.com .
+
+:butterfly:   :butterfly:   :butterfly:   :butterfly:   :butterfly:   :butterfly:   :butterfly:   
 
