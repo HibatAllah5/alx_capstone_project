@@ -18,7 +18,7 @@ So ARRANGE IT, is actually made for people like me, who are ready to upgrade the
 # Technologies Used: :sunflower:
 
 + I have used multiple technologies that I have learned during this program.
-+ I designed The APP with Figma.
++ I designed The APP prototype with Figma.
 + These technologies include HTML, CSS, and JavaScript.
 
 # Demo: :sunflower:
@@ -26,7 +26,10 @@ Here's a simple flowchart of the Note taking app:
 
 <img width="600" alt="app FLOWCHART" src="https://github.com/HibatAllah5/alx_capstone_project/assets/149024141/868dc91e-a016-48a6-ad93-2b829d751f13">
 
-And here's the Figma file that illustrate the APP:
+
+
+And here's the prototype made with FIGMA:
+
 
 <img width="600" alt="Figma File" src="https://github.com/HibatAllah5/alx_capstone_project/blob/main/images/FIGMA%20Arrange%20it.PNG?raw=true">
 
