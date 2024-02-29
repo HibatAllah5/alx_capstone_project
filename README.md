@@ -44,8 +44,11 @@ Here's a simple flowchart of the Note taking app:
 Asalamo Alaikom, I'm HIBATALLAH Khaldoune a Moroccan young woman and a former Management Techniques and Foreign Applied Languages student.
 
 
-YOU CAN REACH ME ON MY EMAIL : hibakhaldoune5@gmail.com
+YOU CAN REACH ME ON MY EMAIL : hibakhaldoune5@gmail.com .
+
+
 And you can follow me on GITHUB : https://github.com/HibatAllah5
+
 
  :sunflower: :sunflower: :sunflower: :sunflower: :sunflower: 
 
