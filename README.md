@@ -46,7 +46,3 @@ Asalamo Alaikom, I'm HIBATALLAH Khaldoune a Moroccan young woman and a former Ma
 
 YOU CAN REACH ME ON MY EMAIL : hibakhaldoune5@gmail.com .
 
-
-And you can follow me on GITHUB : https://github.com/HibatAllah5
-
-:butterfly:   :butterfly:   :butterfly:   :butterfly:   
