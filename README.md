@@ -19,16 +19,20 @@ So ARRANGE IT, is actually made for people like me, who are ready to upgrade the
 
 + I have used multiple technologies that I have learned during this program.
 + I designed The APP with Figma.
-+ These technologies include HTML, CSS, JavaScript and a bit of MySQL.
++ These technologies include HTML, CSS, and JavaScript.
 
-# Screenshots or Demo: :framed_picture:
+# Demo: :framed_picture:
+Here's a simple flowchart of the Note taking app:
+!(![Uploading app FLOWCHART.PNG…])
+
 
 
 
 
 # Roadmap and future enhancements:
 
-
++ 
++ 
 
 
 
