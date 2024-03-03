@@ -31,7 +31,7 @@ Here's a simple flowchart of the Note taking app:
 And here's the prototype made with FIGMA:
 
 
-<img width="600" alt="Figma File" src="https://github.com/HibatAllah5/alx_capstone_project/blob/main/images/FIGMA%20Arrange%20it.PNG?raw=true">
+<img width="600" alt="Figma File" src="(<APP OFFICIAL.PNG>)">
 
 
 
