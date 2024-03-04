@@ -1,0 +1,189 @@
+:root {
+    /* COLORS var */
+--color-white: white;
+--color-nude-purple:#D1BDCF;
+--color-dark:#000000;
+--color-text:#07152780;
+
+    /* FONT var */
+    --font-family-base:'Source Sans Pro';
+    --font-size-small: 1rem;
+    --font-size-meduim: 1.125rem;
+    --font-size-large: 1.37rem;
+
+   
+}
+  /* = BASED = */
+* {
+    font-family: var(--font-family-base);
+    margin: 0;
+    padding: 0;
+}
+   /* = END BASED = */
+
+
+html{
+    height:100%;
+}
+
+body {
+    height: 1652px;
+    width: 1447px;
+}
+
+main {
+    background-color:#D1BDCF;
+    background-position-y:0;
+    
+}
+.banner {
+    align-items: center;
+    text-align: center;
+}
+main {
+    position: relative;
+    top: 0;
+}
+.section {
+    align-items: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+button:hover {
+    cursor: pointer;
+    opacity: .9;
+}
+
+
+/* ============== HEADER ============ */
+header {
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 3;
+    padding: 2rem 6rem;
+}
+header .a {
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+}
+/* ============== END HEADER ============ */
+
+/* ============== MAIN ============ */
+.section .title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+}
+
+.banner div h1 {
+    color: #FFF;
+    font-size: 120px;
+    font-weight: 700;
+}
+
+.banner div h3 {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 80px;
+    top: 631px;
+    left: 604px;
+}
+
+.banner div button {
+    width: 170px;
+    height: 44px;
+    border-radius: 22px;
+    background: #C271FF;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(49, 49, 49);
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: 3.5rem;
+}
+/* ============== END Section 1 ============ */
+
+/* ============== Section 2 ============ */
+.container{
+    width:100%;
+    min-height: 100vh;
+    background: #D1BDCF;
+    color: white;
+    padding-top: 4%;
+    padding-left: 10%;
+} 
+.input-box{
+    position: relative;
+    width: 310px;
+    height: 253px;
+    background-color: #F0D6DE;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    border-radius: 5px;
+}
+.input-box img {
+    width: 30px;
+    height: 35px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+}
+/* ============== END Section 2 ============ */
+
+
+
+/* ============== Footer ============ */
+.footer {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background: #B984A4;
+}
+.footer div a{
+    display: flex;
+    width: 148.49px;
+    height: 48.57px;
+    justify-content:end;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.footer p {
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 0.3517;
+}
+/* ============== END FOOTER ============ */
+
+/* ============== RESPONSIVE ============ */
+@media (min-width:0px) and (max-width:480px) {
+
+    .foot div {
+        flex-direction: column;
+        width: auto;
+        gap: 30px; 
+    }
+}
+
+
+/* ============== END RESPONSIVE ============ */
+
+
+
+
+
+
+
+
+
