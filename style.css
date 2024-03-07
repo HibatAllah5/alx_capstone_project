@@ -40,13 +40,13 @@ header {
 }
 
 main {
-    width: 1200px; ;
+    width:100%; ;
     height: 1205px;
 }
 
 main .banner{
     background-image: url("assets/backround2.jpg");
-    width: 1247px;
+    width:100%;
     height: 729px;
 }
 
@@ -122,4 +122,77 @@ button:hover {
     padding: 10px;
     margin-bottom: 3.5rem;
 }
+/* ============== END Section 1 ============ */
+
+
+/* ============== Section 2 ============ */
+.container{
+    width:fit-content;
+    min-height:100vh;
+    background: #D1BDCF;
+    color: white;
+    padding-top: 4%;
+    padding-left: 10%;
+} 
+
+.input-box{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: #F0D6DE;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.input-box img {
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+}
+/* ============== END Section 2 ============ */
+
+/* ============== Footer ============ */
+
+.footer {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: #B983A3;
+    color: #FFF;
+    display: flex;
+}
+
+.social-icons {
+     width: 100%;
+     padding: 70px 30px 20px;
+}
+
+.footer .Social-icons{
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    align-items:end;
+    width: 148.49px;
+    height: 48.57px;
+    margin-bottom: 50px;
+
+}
+
+.footer p {
+    color:#FFF;
+    font-size: var(--font-size-3xx-small);
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 80px;
+    padding-bottom: 10px;
+}
+
+
+/* ============== END FOOTER ============ */
+
 
