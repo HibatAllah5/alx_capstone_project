@@ -1,56 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>ARRANGE it!</title>
-        <link rel="stylesheet" href="style.css">
+        <title>Arrange it! APP</title>
+        <link rel="stylesheet" href="style2.css">
     </head>
 
     <body>
-        <!-- HEADER -->
-        <header>
+        
+        <section class="container">
+
             <div class="header">
-                <h2>Welcome !</h2>
+                <p class="app_name">Arrange it!</p>
+
+                <div class="buttons">
+                    <button class="btn btn-new" onclick="newNote()">ADD Note</button>
+                </div>
+
+            </div><br>
+
+            <div class="notes" id="notes">
+                <!--<div class="note">
+                    <input type="text" placeholder="Title here..." class="title"/>
+                    <textarea class="content" placeholder="Content Here"></textarea>
+                    <img src="assets/delete.png" alt="img">
+                </div>!-->
             </div>
-        </header>
 
-        <!-- MAIN -->
-        <main>
-            <section class="banner">
-                <div class="title">
-                 <h1>ARRANGE it!</h1>
-                </div>
+        </section>  
 
-                <div class="quote">
-                    <h3>When your heart speaks, take good notes.</h3>
-                </div><br><br><br><br><br><br><br>
+        <script src="script2.js"></script>
 
-                <div class="button">
-                    <button type="button">Create Notes</button>
-                </div>
-
-            </section>
-            <!--End of section 1-->
-
-            <!--Section 2-->
-            <section class="container">
-                    <div class="containers">
-                        <p contenteditable="true" class="input-box">
-                            <img src="assets/delete.png">  
-                        </p>  
-                    </div>
-            </section>
-        </main>
-        <!--End of section 2-->
-
-
-        <!--Footer-->
         <footer>
             <div class="Footer"> 
                 <div class="social-icons" >
-                    <a href="#"><img src="assets/instagram.png"></a>
-                    <a href="#"><img src="assets/Github.png"></a>     
+                    <li><a href="#"><img src="assets/github.svg"></a></li>
+                    <li><a href="#"><img src="assets/instagram.svg"></a></li>
+                    <li><a href="#"><img src="assets/linkedin.svg"></a></li> 
                 </div>
                 <div class="footerNav">
                     <ul>
@@ -59,13 +45,10 @@
                     </ul>
                 </div>
                 <div class="footerBottom">
-                    <p>©ARRANGEIT! 2024; Designed by <span class="designer">HIBATALLAH Khaldoune.</span></p> 
+                    <p>©ARRANGEIT! 2024 - Designed by <span class="designer">HIBATALLAH Khaldoune.</span></p> 
                 </div>
             </div>
         </footer>
-        <!--End of footer-->
     </body>
 </html>
-
-
 
