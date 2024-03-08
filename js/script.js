@@ -58,8 +58,8 @@ function displayExistingNotes()
 displayExistingNotes();
 
 
-function newNote()
-{
+function newNote(){
+    
     let note=document.createElement("div");
     note.classList.add("note");
 
