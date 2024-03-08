@@ -186,8 +186,40 @@ ul li a:hover{
     text-transform: capitalize;
 }
 
-@media (max-width:555px){
-    .html{
-        width: 100%;
+
+
+/* ============== RESPONSIVE ============ */
+@media (min-width:0px) and (max-width:480px) {
+
+    .container .header{
+        text-align: center;
+        font-size: 30px;
+        width: auto;
+        padding:30px 20px;
     }
+    .container .buttons{
+        padding:30px 20px;
+        flex-wrap: wrap;
+        width: auto;
+    }
+
+
+    .notes{
+        text-align: center;
+        font-size: 30px;
+        width: auto;
+    }
+
+    .notes .note {
+        padding:30px 20px;
+        flex-wrap: wrap;
+        width: auto;
+    }
+
+    .footer-content{
+        flex-direction: column;
+        width: auto;
+        gap: 30px;
+    }
+
 }
