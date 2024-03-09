@@ -39,6 +39,14 @@ function displayExistingNotes()
             content.value=oldNote.content;
             content.onkeyup=updateContent;
 
+            let date=document.createElement("input");
+            date.classList.add("date");
+            date.setAttribute("placeholder","Date...");
+            date.setAttribute("type","text");
+            date.setAttribute("data-id",oldNote.id);
+            date.value=oldNote.date;
+            date.onkeyup=updateDate;
+
             let deleteBtn=document.createElement("img");
             deleteBtn.src="assets/delete.png";
             deleteBtn.setAttribute("data-id",oldNote.id);
@@ -46,6 +54,7 @@ function displayExistingNotes()
 
             note.appendChild(title);
             note.appendChild(content);
+            note.appendChild(date);
             note.append(deleteBtn);
 
             document.getElementById("notes").appendChild(note);
@@ -78,6 +87,16 @@ function newNote(){
     content.setAttribute("data-id",generatedId);
     content.onkeyup=updateContent;
 
+
+    let date=document.createElement("input");
+    date.classList.add("date");
+    date.setAttribute("placeholder","Date...");
+    date.setAttribute("type", "text");
+    date.setAttribute("data-id",generatedId);
+    date.onkeyup=updateDate;
+
+
+
     let deleteBtn=document.createElement("img");
     deleteBtn.src="assets/delete.png";
     deleteBtn.setAttribute("data-id",generatedId);
@@ -86,6 +105,7 @@ function newNote(){
 
     note.appendChild(title);
     note.appendChild(content);
+    note.appendChild(date);
     note.append(deleteBtn);
 
     document.getElementById("notes").appendChild(note);
@@ -131,6 +151,23 @@ function updateContent()
     localStorage.setItem("notes",JSON.stringify(notesData));
 
 }
+
+function updateDate()
+{
+    let dateId=Number(this.getAttribute("data-id"));
+    let dateValue=this.value;
+
+    let obj=notesData.find(function(note,index){
+        return note.id===dateId;
+    })
+
+    obj.date=dateValue;
+
+    localStorage.setItem("notes",JSON.stringify(notesData));
+
+}
+
+
 
 function deleteNote()
 {
