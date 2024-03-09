@@ -26,7 +26,7 @@ function displayExistingNotes()
 
             let title=document.createElement("input");
             title.classList.add("title");
-            title.setAttribute("placeholder","Title...");
+            title.setAttribute("placeholder","Title:");
             title.setAttribute("type","text");
             title.setAttribute("data-id",oldNote.id);
             title.value=oldNote.title;
@@ -74,7 +74,7 @@ function newNote(){
 
     let title=document.createElement("input");
     title.classList.add("title");
-    title.setAttribute("placeholder","Title...");
+    title.setAttribute("placeholder","Title:");
     title.setAttribute("type","text");
     title.setAttribute("data-id",generatedId);
     title.onkeyup=updateTitle;
@@ -110,7 +110,7 @@ function newNote(){
 
     document.getElementById("notes").appendChild(note);
 
-    notesData.push({id:generatedId,title:"",content:""});
+    notesData.push({id:generatedId,title:"",content:"",date:""});
     generatedId++;
 
     
