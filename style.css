@@ -174,20 +174,14 @@ img:hover{
 
 .socials li{
     margin: 0 10px;
+    margin-top: 100px;
 }
 
 .socials a{
     text-decoration: none;
+    
 }
 
-
-.footerNav{
-    display: block;
-    color: #FFF;
-    font-size: 19px;
-    text-transform: capitalize;
-    transition: 0.4s;
-}
 
 ul li a:hover{
     color: #FFF;
@@ -195,7 +189,7 @@ ul li a:hover{
 }
 
 .footerBottom {
-    color:#7A6177;
+    color:#8C5B82;
     font-size: var(--font-size-3xx-small);
     text-align: center;
     padding-top: 100px;
@@ -204,8 +198,8 @@ ul li a:hover{
 }
 
 .footerBottom p{
-    color:#FFF;
-    font-size: 14px;
+    color:#8C5B82;
+    font-size: 17px;
     word-spacing: 2px;
     text-transform: capitalize;
 }
@@ -246,14 +240,6 @@ ul li a:hover{
         margin-bottom: 20px;
     }
 
-    .footer .footerNav{
-        display:block;
-        padding:30px 20px;
-        width: auto;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        
-    }
 
 }
 
