@@ -8,9 +8,6 @@ ARRANGE IT!, is an note taking app created by so much love and care, it's the fr
 I have always used note taking journals and apps, but I have always been so creative with my Bullet Journals since note taking apps usually don't give more freedom to be creative with your notes!
 So ARRANGE IT, is actually made for people like me, who are ready to upgrade their daily life and be creative while doing it.
 
-here is the URL's link of the APP:
-
-http://127.0.0.1:5500/index.html.
 
 # Features and Functionality: :sunflower:
 
