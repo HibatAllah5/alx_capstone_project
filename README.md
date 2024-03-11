@@ -8,11 +8,15 @@ ARRANGE IT!, is an note taking app created by so much love and care, it's the fr
 I have always used note taking journals and apps, but I have always been so creative with my Bullet Journals since note taking apps usually don't give more freedom to be creative with your notes!
 So ARRANGE IT, is actually made for people like me, who are ready to upgrade their daily life and be creative while doing it.
 
+here is the URL's link of the APP:
+
+http://127.0.0.1:5500/index.html.
+
 # Features and Functionality: :sunflower:
 
 + The app offers an easy to navigate and simple layout, letting the user to get creative.
-+ It that allows users to create, edit, and organize their notes.
-+ It implements features such as rich text editing, tags, and search functionality for efficient note management.
++ It that allows users to create, edit, and delete their notes.
++ It implements features such as text editing, tags, and search functionality for efficient note management.
   
 
 # Technologies Used: :sunflower:
@@ -31,7 +35,7 @@ Here's a simple flowchart of the Note taking app:
 And here's the prototype made with FIGMA:
 
 
-<img width="600" alt="Figma File" src="https://github.com/HibatAllah5/alx_capstone_project/blob/main/assets/NEW%20PROTOTYPE.PNG">
+<img width="600" alt="Figma File" src="https://github.com/HibatAllah5/alx_capstone_project/blob/main/assets/Capture.PNG">
 
 
 
