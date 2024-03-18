@@ -41,7 +41,7 @@ function displayExistingNotes()
 
             let date=document.createElement("input");
             date.classList.add("date");
-            date.setAttribute("placeholder","Date...");
+            date.setAttribute("placeholder","Date...   ");
             date.setAttribute("type","text");
             date.setAttribute("data-id",oldNote.id);
             date.value=oldNote.date;
